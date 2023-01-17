@@ -51,4 +51,10 @@ ___
 Mini.css is a minimal, responsive, style-agnostic CSS framework. Mini.css is similar to Bootstrap but lighter and requires fewer CSS classes so you can focus on learning React but still get a professional look.
 ```
 ___
+# [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
+```
+A mostly reasonable approach to React and JSX
 
+This style guide is mostly based on the standards that are currently prevalent in JavaScript, although some conventions (i.e async/await or static class fields) may still be included or prohibited on a case-by-case basis. Currently, anything prior to stage 3 is not included nor recommended in this guide.
+```
+___
