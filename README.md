@@ -46,15 +46,32 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 To learn React, check out the [React documentation](https://reactjs.org/).
 
 ___
-# [Mini.css](https://minicss.us/)
+## [Yarn](https://yarnpkg.com/)
+```
+Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
+```
+___
+## [Mini.css](https://minicss.us/)
 ```
 Mini.css is a minimal, responsive, style-agnostic CSS framework. Mini.css is similar to Bootstrap but lighter and requires fewer CSS classes so you can focus on learning React but still get a professional look.
 ```
 ___
-# [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-```
-A mostly reasonable approach to React and JSX
+# ESLint & Prettier
+## setup
+- > yarn add -D eslint
+- > npx eslint --init
+- > yarn add -D prettier eslint-config-prettier eslint-plugin-prettier eslint-plugin-react-hooks
+- > touch .prettierrc
 
-This style guide is mostly based on the standards that are currently prevalent in JavaScript, although some conventions (i.e async/await or static class fields) may still be included or prohibited on a case-by-case basis. Currently, anything prior to stage 3 is not included nor recommended in this guide.
+
+
+
+
+
+
+## [Style Guide standard-with-typescript](https://github.com/standard/standard)
+```
+JavaScript style guide, linter, and formatter
 ```
 ___
+
