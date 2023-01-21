@@ -45,23 +45,51 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-___
+---
+
 # [Mini.css](https://minicss.us/)
+
 ```
 Mini.css is a minimal, responsive, style-agnostic CSS framework. Mini.css is similar to Bootstrap but lighter and requires fewer CSS classes so you can focus on learning React but still get a professional look.
 ```
-___
-# [Airbnb React/JSX Style Guide](https://github.com/airbnb/javascript/tree/master/react)
-```
-A mostly reasonable approach to React and JSX
 
-This style guide is mostly based on the standards that are currently prevalent in JavaScript, although some conventions (i.e async/await or static class fields) may still be included or prohibited on a case-by-case basis. Currently, anything prior to stage 3 is not included nor recommended in this guide.
+---
+
+# [Yarn instead of the old NPM :)](https://yarnpkg.com/)
+
 ```
-___
+Safe, stable, reproducible projects
+Yarn is a package manager that doubles down as project manager. Whether you work on one-shot projects or large monorepos, as a hobbyist or an enterprise user, we've got you covered.
+```
+
+---
+
 # Install ESLint
+
 ## [typescript-eslint](https://typescript-eslint.io/)
+
 ```
 ESLint is an awesome linter for JavaScript code.
 ESLint statically analyzes your code to quickly find problems. It allows creating a series of assertions called lint rules around what your code should look or behave like, as well as auto-fixer suggestions to improve your code for you, and loading in lint rules from shared plugins.
 ```
-___
+
+---
+
+# Install Prettier
+
+## [prettier.io](https://prettier.io/)
+
+```
+An opinionated code formatter
+Supports many languages
+Integrates with most editors
+Has few options
+```
+
+### [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier)
+
+```
+Use eslint-config-prettier to make Prettier and ESLint play nice together.
+```
+
+---
