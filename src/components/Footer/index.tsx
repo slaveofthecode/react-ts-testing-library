@@ -1,11 +1,9 @@
-import React from 'react'
+import React from 'react';
 
-type Props = {}
+type Props = {};
 
-function index({ }: Props) {
-    return (
-        <div>footer</div>
-    )
+function index({}: Props) {
+  return <div>footer</div>;
 }
 
-export default index
+export default index;
