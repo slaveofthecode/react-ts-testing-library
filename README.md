@@ -58,3 +58,10 @@ A mostly reasonable approach to React and JSX
 This style guide is mostly based on the standards that are currently prevalent in JavaScript, although some conventions (i.e async/await or static class fields) may still be included or prohibited on a case-by-case basis. Currently, anything prior to stage 3 is not included nor recommended in this guide.
 ```
 ___
+# Install ESLint
+## [typescript-eslint](https://typescript-eslint.io/)
+```
+ESLint is an awesome linter for JavaScript code.
+ESLint statically analyzes your code to quickly find problems. It allows creating a series of assertions called lint rules around what your code should look or behave like, as well as auto-fixer suggestions to improve your code for you, and loading in lint rules from shared plugins.
+```
+___
